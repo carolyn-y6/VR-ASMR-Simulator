@@ -1,0 +1,4 @@
+repository "ASMR Simulator/ASMR Simulator@33263374348753@cloud"
+  path "/"
+    br "/main"
+    co "/main"
